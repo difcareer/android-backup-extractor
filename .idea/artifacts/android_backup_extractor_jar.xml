@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="android-backup-extractor:jar">
+    <output-path>$PROJECT_DIR$/</output-path>
+    <root id="archive" name="abe.jar">
+      <element id="module-output" name="android-backup-extractor" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/bcprov-jdk15on-152.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
